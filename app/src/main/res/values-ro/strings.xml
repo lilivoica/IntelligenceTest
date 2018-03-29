@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Test de inteligenta</string>
+    <string name="question1">1.Atnarf este pentru Franta asa cum 392573 este pentru…</string>
+    <string name="question2">"2.Care animal nu-si are locul in lista de mai jos? "</string>
+    <string name="question3">3.Mana este pentru manusa precum capul este pentru...</string>
+    <string name="question4">4.Alegeti numerele care completeaza sirul urmator:169 144 121 100 81...</string>
+    <string name="question5">5.Andrei are 4 ani, iar sora lui are de 3 ori mai mult decat el. Ce varsta va avea sora cand Andrei va implini 12 ani?</string>
+    <string name="answer22">vaca</string>
+    <string name="answer23">cangur</string>
+    <string name="answer24">magar</string>
+    <string name="answer21">cal</string>
+    <string name="answer5">"Dati raspunsul in cifre "</string>
+    <string name="resetButton">resetare</string>
+    <string name="resultButton">rezultat</string>
+    <string name="result_for_0_points">Nici un raspuns corect!</string>
+    <string name="result_for_2_points">Un raspuns corect</string>
+    <string name="result_for_4_points">Doua raspunsuri corecte</string>
+    <string name="result_for_6_points">Trei raspunsuri corecte</string>
+    <string name="result_for_8_points">Patru raspunsuri corecte</string>
+    <string name="result_for_10_points">Felicitari!!!Toate raspunsurile sunt corecte!</string>
+    <string name="correctAnswers">Raspunsuri corecte:1-b, 2-c, 3-b, 4-ac, 5-20</string>
+    <string name="answer31">par</string>
+    <string name="answer32">caciula</string>
+    <string name="answer33">om</string>
+    <string name="answer34">picioare</string>
+
+</resources>

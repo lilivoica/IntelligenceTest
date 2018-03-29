@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Intelligence Test</string>
+    <string name="question1">1.Ecnarf is for France so 392573 is for...</string>
+    <string name="question2">2.Which animal does not fit in the list below?</string>
+    <string name="question3">3.The hand is for the glove just like the head is for...</string>
+    <string name="question4">4.Select the numbers that completes the following string: 169 144 121 100 81 ...</string>
+    <string name="question5">5.Andrew is 4 years old and his sister has 3 times more than him. How old will his sister be when Andrew will be 12?</string>
+    <string name="answer11" translatable="false">751938</string>
+    <string name="answer12" translatable="false">375293</string>
+    <string name="answer13" translatable="false">372593</string>
+    <string name="answer14" translatable="false">375593</string>
+    <string name="answer21">horse</string>
+    <string name="answer22">cow</string>
+    <string name="answer23">kangaroo</string>
+    <string name="answer24">donkey</string>
+    <string name="answer31">hair</string>
+    <string name="answer32">hat</string>
+    <string name="answer33">human</string>
+    <string name="answer34">legs</string>
+    <string name="answer41" translatable="false">64</string>
+    <string name="answer42" translatable="false">72</string>
+    <string name="answer43" translatable="false">49</string>
+    <string name="answer44" translatable="false">27</string>
+    <string name="answer5">Give your answer in numbers</string>
+    <string name="resetButton">reset</string>
+    <string name="resultButton">result</string>
+    <string name="result_for_0_points">No correct answer</string>
+    <string name="result_for_2_points">One correct answer</string>
+    <string name="result_for_4_points">Two correct answers</string>
+    <string name="result_for_6_points">Three correct answers</string>
+    <string name="result_for_8_points">Four correct answers</string>
+    <string name="result_for_10_points">Congratulations!!!All answers are correct!</string>
+    <string name="correctAnswers">Correct answers:1-b, 2-c, 3-b, 4-ac, 5-20</string>
+</resources>
